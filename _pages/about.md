@@ -34,11 +34,13 @@ None (but a paper is being submitted)
 - *2020.09 - Now*, Undergraduate, School of Software, Shandong Univeristy, Jinan.
 - *2017.09 - 2020.07*, Huanggang Middle School, Huanggang.
 
+<span class='anchor' id='projects'></span>
 # 📁 Projects
 
 - A vision positioning system for throat swab sampling robot (Using UE, Intel RealSense D450, Python)
 - Virtual Reality (VR) maze system (using Kinect, Android, Unity, Python)
 
+<span class='anchor' id='courses'></span>
 # 💻 Courses
 
 | Course                                 | score    |
