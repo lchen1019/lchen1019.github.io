@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lin Chen (陈林)"
-description              : "undergraduate at the School of Software, Shandong University"
+description              : "Undergraduate at the School of Software, Shandong University. Interested in autonomous driving, computer vision and robot."
 repository               : "lchen1019/lchen1019.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +27,7 @@ author:
   location         : "Jinan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "clqwq@mail.sdu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
