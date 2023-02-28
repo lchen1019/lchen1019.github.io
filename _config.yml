@@ -33,7 +33,6 @@ author:
   uri              :
   bitbucket        :
   codepen          :
-  CV               : https://lchen1019.github.io/files/CV.pdf
   dribbble         :
   flickr           :
   facebook         :
@@ -58,6 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  CV               : "/files/zh_CV.pdf"
 
 
 # Reading Files
