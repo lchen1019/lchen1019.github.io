@@ -51,6 +51,7 @@ None (but a paper is being submitted)
 | Data Structure                         | 99       |
 | Organization and Structure of Computer | 98       |
 | Operating System                       | 94       |
+| Database System                        | 98       |
 | Computer Network                       | 97       |
 | Computer Vision                        | 96       |
 | Algorithm Design and Analysis          | 91       |
