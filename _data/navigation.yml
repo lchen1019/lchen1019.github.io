@@ -22,7 +22,7 @@ main:
   #   url: "/#-internships"
 
   - title: "Projects"
-    url: "/#-Projects"
+    url: "/#-projects"
 
   - title: "Courses"
-    url: "/#-Courses"
+    url: "/#-courses"
