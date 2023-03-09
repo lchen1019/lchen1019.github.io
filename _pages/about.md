@@ -46,13 +46,13 @@ None (but a paper is being submitted)
 
   
 
-  ![1](images\1.png)
+  <img src="images\1.png" alt="1" style="zoom:50%;" />
 
-  ![2](images\2.png)
+  <img src="images\1.png" alt="2" style="zoom:50%;" />
 
 - Virtual Reality (VR) maze system: develop a mobile phone terminal, scan the design drawings in the physical space and convert them into 3D virtual scenes; use Kinect to identify key points of the human body and capture postures; develop a two-person experience system based on Unity 3D, and realize the roaming and interaction of users in the virtual maze.[lchen1019/VR-maze: a virtual reality maze game (github.com)](https://github.com/lchen1019/VR-maze)
 
-  ![3](images\3.png)
+  <img src="images\1.png" alt="3" style="zoom:50%;" />
 
 <span class='anchor' id='courses'></span>
 
