@@ -25,9 +25,10 @@ redirect_from:
 
 👀 My primary research interests include:
 
+- robot
 - autonomous driving
 - computer vision
-- robot.
+
 
 # 📝 Publications 
 
