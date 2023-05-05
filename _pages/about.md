@@ -35,7 +35,7 @@ None (but a paper is being submitted)
 
 # 🎖 Honors and Awards
 - **2022.11** National Second Prize in Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM)
-- **2022.10** Three good students of Shandong University
+- **2022.10** Outstanding Student of Shandong University
 - **2021.11** National First Prize in Chinese Mathematics Competitions (CMC)
 - **2021.10** National Scholarship (Undergraduate) 
 
