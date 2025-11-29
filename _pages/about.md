@@ -119,6 +119,7 @@ redirect_from:
 # 🔍 Services
 - Reviewer for: TCSVT, TMM
 222
+
 <div style="
   display: inline-block; /* 容器仅占内容宽度，不撑满父元素 */
   transform: scale(0.4);
@@ -126,6 +127,7 @@ redirect_from:
   vertical-align: top; /* 对齐顶部，消除基线空白 */
   margin: 0 auto;
   display: block; /* 保持居中 */
+  height: 100px;
 ">
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=IH05uAXV7wrH1ct58NtGcS5lAr4bN_4hzUThqPxKDb4&cl=ffffff&w=a"></script>
 </div>
