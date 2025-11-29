@@ -52,8 +52,25 @@ redirect_from:
                 <br>
                 <div></div>
                 <strong>Lin Chen</strong>, Yingjian Zhu, Qi Yang, Xin Niu, Kun Ding, Shiming Xiang
-                Machine Intelligence Research <em>(MIR)</em>, 2025.<br>
+                <em>Machine Intelligence Research</em>, 2025.<br>
                 [<a href="https://arxiv.org/pdf/2511.20027" target="_blank">Paper</a>]&nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    <img width="250" style="padding: 0pt 10pt 0pt 0pt" src="papers/err-seg/framework.png" alt="">
+                </div>
+            </td>
+            <td>
+                <font style="line-height: 180%; font-weight: bold">Efficient Redundancy Reduction for Open-Vocabulary Semantic Segmentation</font>
+                <br>
+                <div></div>
+                <strong>Lin Chen</strong>, Qi Yang, Kun Ding, Zhihao Li, Gang Shen, Fei Li, Qiyuan Cao, Shiming Xiang
+                <em>Neurocomputing</em>, 2025.<br>
+                [<a href="https://arxiv.org/pdf/2501.17642" target="_blank">Paper</a>]&nbsp;
+                [<a href="http://clqwq.press/ERR-Seg/" target="_blank">Projector Page</a>]&nbsp;
+                [<a href="https://huggingface.co/lchen1019/ERR-Seg" target="_blank">Hugging Face</a>]&nbsp;
             </td>
         </tr>
     </tbody>
