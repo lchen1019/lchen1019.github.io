@@ -30,7 +30,7 @@ redirect_from:
 # 📖 Educations
 - **2024.09 - Now**, PhD, Institute of Automation, Chinese Academy of Sciences, Beijing.
 - **2020.09 - 2024.7**, Bachelor, School of Software, Shandong University, Jinan.
-- **2017.09 - 2020.07**, Huanggang High School.
+- **2017.05 - 2020.07**, Huanggang High School of Hubei Province.
 
 # 💻 Experiences
 - **2025.12 - Now** Research Intern @ Hunyuan, Tencent
@@ -103,4 +103,5 @@ redirect_from:
 - **2021.10** National Scholarship (Undergraduate) 
 
 
-# 
+# 🔍 Services
+- Reviewer for: TCSVT, TMM

@@ -24,11 +24,11 @@ author:
   name             : "Lin Chen (陈林)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Shandong University"
-  location         : "Jinan, China"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "clqwq@mail.sdu.edu.cn"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=b4GKcAsAAAAJ"
+  email            : "chenlin2024@ia.ac.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -44,8 +44,8 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             : # "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : "https://orcid.org/0000-0001-6965-1459"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -57,8 +57,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  blog             : "https://clqwq.press"
-  cv               : "/files/zh_CV.pdf"
+  blog             : # "https://clqwq.press"
+  cv               : # "/files/zh_CV.pdf"
 
 
 # Reading Files
