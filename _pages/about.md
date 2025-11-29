@@ -30,8 +30,8 @@ redirect_from:
 <span class='anchor' id='news'></span>
 
 # 🔥 News
--
-
+- **2025.11.13, 2025.11.26** Two papers for Open-Vocabulary Semantic Segmentation are accepted! 🚀🚀🚀
+- **2025.07.17** Agentar-DeepFinace-100K is released! 🚀🚀🚀
 
 
 <span class='anchor' id='educations'></span>
