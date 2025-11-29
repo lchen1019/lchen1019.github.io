@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lin Chen (陈林)"
-description              : "PhD Student at CASIA"
+description              : # ""
 repository               : "lchen1019/lchen1019.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lin Chen (陈林)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Shandong University"
+  bio              : "PhD Student at CASIA"
   location         : "Beijing, China"
   employer         :
   pubmed           : 

@@ -34,7 +34,7 @@ redirect_from:
 
 # 💻 Experiences
 - **2025.12 - Now** Research Intern @ Hunyuan, Tencent
-- **2024.12 - 2025.11** Research Intern @ Antgroup
+- **2024.12 - 2025.11** Research Intern @ Ant Group
 
 
 # 📝 Publications 
@@ -97,9 +97,9 @@ redirect_from:
 
 
 # 🎖 Honors and Awards
-- **2024.07** Shandong University Outstanding Graduatesssss
-- **2022.11** 2nd National Prize in Contemporary Undergraduate Mathematical Contest in Modeling [CUMCM](https://www.mcm.edu.cn/).
-- **2021.11** 1st National Prize in Chinese Mathematics Competitions [CMC](http://www.cmathc.cn/).
+- **2024.07** Shandong University Outstanding Graduate
+- **2022.11** 2nd National Prize in Contemporary Undergraduate Mathematical Contest in Modeling [(CUMCM)](https://www.mcm.edu.cn/).
+- **2021.11** 1st National Prize in Chinese Mathematics Competitions [(CMC)](http://www.cmathc.cn/).
 - **2021.10** National Scholarship (Undergraduate) 
 
 
