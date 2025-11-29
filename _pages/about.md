@@ -44,7 +44,7 @@ redirect_from:
         <tr>
             <td>
                 <div align="center">
-                    <img width="200" style="padding: 0pt 10pt 0pt 0pt" src="papers/deepfinance/framework.png" alt="">
+                    <img width="180" style="padding: 0pt 10pt 0pt 0pt" src="papers/deepfinance/framework.png" alt="">
                 </div>
             </td>
             <td>
@@ -61,7 +61,7 @@ redirect_from:
         <tr>
             <td>
                 <div align="center">
-                    <img width="200" style="padding: 0pt 10pt 0pt 0pt" src="papers/sam-mi/framework.png" alt="">
+                    <img width="180" style="padding: 0pt 10pt 0pt 0pt" src="papers/sam-mi/framework.png" alt="">
                 </div>
             </td>
             <td>
@@ -76,7 +76,7 @@ redirect_from:
         <tr>
             <td>
                 <div align="center">
-                    <img width="200" style="padding: 0pt 10pt 0pt 0pt" src="papers/err-seg/framework.png" alt="">
+                    <img width="180" style="padding: 0pt 10pt 0pt 0pt" src="papers/err-seg/framework.png" alt="">
                 </div>
             </td>
             <td>
