@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-👋 Hi! I’m Lin Chen.
+👋 Hi! I’m Lin Chen, an aspiring academic capybara on a journey through the world of research.
 
 🌱 I'm currently a PhD Student at Institute of Automation, Chinese Academy of Sciences (CASIA), advised by [Prof. Shiming Xiang](https://scholar.google.com/citations?hl=zh-CN&user=0ggsACEAAAAJ). Prior to that, I received my bachelor degree from Shandong University in 2024. 
 
