@@ -27,18 +27,29 @@ redirect_from:
 ✉ You can contact me with chenlin2024@ia.ac.cn.
 
 
+<span class='anchor' id='news'></span>
+
+# 🔥 News
+-
+
+
+
+<span class='anchor' id='educations'></span>
+
 # 📖 Educations
 - **2024.09 - Now**, PhD, Institute of Automation, Chinese Academy of Sciences, Beijing.
 - **2020.09 - 2024.7**, Bachelor, School of Software, Shandong University, Jinan.
 - **2017.05 - 2020.07**, Huanggang High School of Hubei Province.
 
+<span class='anchor' id='experiences'></span>
+
 # 💻 Experiences
 - **2025.12 - Now** Research Intern @ Hunyuan, Tencent
 - **2024.12 - 2025.11** Research Intern @ Ant Group
 
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications 
-
 <table border="0" width="100%">
     <tbody>
         <tr>
@@ -95,6 +106,7 @@ redirect_from:
 </table>
 
 
+<span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
 - **2024.07** Shandong University Outstanding Graduate
@@ -102,6 +114,7 @@ redirect_from:
 - **2021.11** 1st National Prize in Chinese Mathematics Competitions [(CMC)](http://www.cmathc.cn/).
 - **2021.10** National Scholarship (Undergraduate) 
 
+<span class='anchor' id='services'></span>
 
 # 🔍 Services
 - Reviewer for: TCSVT, TMM
