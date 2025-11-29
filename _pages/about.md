@@ -48,8 +48,9 @@ redirect_from:
                 </div>
             </td>
             <td>
-                <font style="line-height: 180%; font-weight: bold">Interactive Anomaly Detection for Articulated Objects via Motion Anticipation</font>
+                <font style="line-height: 180%; font-weight: bold">SAM-MI: A Mask-Injected Framework for Enhancing Open-Vocabulary Semantic Segmentation with SAM</font>
                 <br>
+                <div></div>
                 <strong>Lin Chen</strong>, Yingjian Zhu, Qi Yang, Xin Niu, Kun Ding, Shiming Xiang
                 Machine Intelligence Research <em>(MIR)</em>, 2025.<br>
                 [<a href="https://arxiv.org/pdf/2511.20027" target="_blank">Paper</a>]&nbsp;
