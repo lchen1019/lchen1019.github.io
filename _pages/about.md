@@ -87,6 +87,7 @@ redirect_from:
                 <em>Neurocomputing</em>, 2025.
                 [<a href="https://arxiv.org/pdf/2501.17642" target="_blank">Paper</a>]&nbsp;
                 [<a href="http://clqwq.press/ERR-Seg/" target="_blank">Projector Page</a>]&nbsp;
+                [<a href="https://github.com/lchen1019/ERR-Seg" target="_blank">Code</a>]&nbsp;
                 [<a href="https://huggingface.co/lchen1019/ERR-Seg" target="_blank">Hugging Face</a>]&nbsp;
             </td>
         </tr>
