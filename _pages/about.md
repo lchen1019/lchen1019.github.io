@@ -44,6 +44,23 @@ redirect_from:
         <tr>
             <td>
                 <div align="center">
+                    <img width="200" style="padding: 0pt 10pt 0pt 0pt" src="papers/deepfinance/framework.png" alt="">
+                </div>
+            </td>
+            <td>
+                <font style="line-height: 180%; font-weight: bold">Agentar-DeepFinance-100K: A Large-Scale Financial Dataset via Systematic Chain-of-Thought Synthesis Optimization</font>
+                <br>
+                Xiaoke Zhao, Zhaowen Zhou, <strong>Lin Chen</strong>, Lihong Wang, Zhiyi Huang, Kaiyuan Zheng, et al.
+                <br>
+                <em>Technical Report</em>, 2025.
+                [<a href="https://arxiv.org/pdf/2507.12901" target="_blank">Paper</a>]&nbsp;
+                [<a href="https://github.com/antgroup/Agentar-DeepFinance-100K" target="_blank">Github</a>]&nbsp;
+                [<a href="https://huggingface.co/datasets/antgroup/Agentar-DeepFinance-100K" target="_blank">Hugging Face</a>]&nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
                     <img width="200" style="padding: 0pt 10pt 0pt 0pt" src="papers/sam-mi/framework.png" alt="">
                 </div>
             </td>
