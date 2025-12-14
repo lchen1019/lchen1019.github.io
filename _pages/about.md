@@ -38,14 +38,14 @@ redirect_from:
 
 # 📖 Educations
 - **2024.09 - Now**, PhD, Institute of Automation, Chinese Academy of Sciences, Beijing.
-- **2020.09 - 2024.7**, Bachelor, School of Software, Shandong University, Jinan.
+- **2020.09 - 2024.07**, Bachelor, School of Software, Shandong University, Jinan.
 - **2017.05 - 2020.07**, Huanggang High School of Hubei Province.
 
 <span class='anchor' id='experiences'></span>
 
 # 💻 Experiences
-- **2025.12 - Now** Research Intern @ Hunyuan, Tencent
-- **2024.12 - 2025.11** Research Intern @ Ant Group
+- **2025.12 - Now** Research Intern@Hunyuan, Tencent
+- **2024.12 - 2025.11** Research Intern@Ant Group
 
 <span class='anchor' id='publications'></span>
 
