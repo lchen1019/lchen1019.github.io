@@ -44,7 +44,7 @@ redirect_from:
 <span class='anchor' id='experiences'></span>
 
 # 💻 Experiences
-- **2025.12 - Now** Research Intern@Hunyuan, Tencent
+- **2025.12 - Now** Research Intern@Tencent Hunyuan Team
 - **2024.12 - 2025.11** Research Intern@Ant Group
 
 <span class='anchor' id='publications'></span>
