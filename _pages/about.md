@@ -78,7 +78,7 @@ redirect_from:
             <td>
                 <font style="line-height: 180%; font-weight: bold">Agentar-DeepFinance-100K: A Large-Scale Financial Dataset via Systematic Chain-of-Thought Synthesis Optimization</font>
                 <br>
-                Xiaoke Zhao*, Zhaowen Zhou*, <strong>Lin Chen*</strong>, Lihong Wang, Zhiyi Huang, Kaiyuan Zheng, et al.
+                Xiaoke Zhao*, Zhaowen Zhou*, <strong>Lin Chen*</strong>, Lihong Wang, Zhiyi Huang, Kaiyuan Zheng, Yanjun Zheng, Xiyang Du, Longfei Liao, Jiawei Liu, Xiang Qi, Bo Zhang, Peng Zhang, Wei Wang, Zhe Li
                 <br>
                 <em>Technical Report</em>, 2025.
                 [<a href="https://arxiv.org/pdf/2507.12901" target="_blank">Paper</a>]&nbsp;
