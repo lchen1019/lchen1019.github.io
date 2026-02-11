@@ -61,7 +61,7 @@ redirect_from:
             <td>
                 <font style="line-height: 180%; font-weight: bold">Beyond Next-Token Alignment: Distilling Multimodal Large Language Models via Token Interactions</font>
                 <br>
-                <strong>Lin Chen</strong>, Xiaoke Zhao, Kun Ding, Weiwei Feng, Changtao Miao, Zili Wang, Wenxuan Guo, Ying Wang, Kaiyuan Zheng, Bo Zhang, Zhe Li, Shiming Xiang
+                <strong style="color: #0056b3; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px;">Lin Chen</strong>, Xiaoke Zhao, Kun Ding, Weiwei Feng, Changtao Miao, Zili Wang, Wenxuan Guo, Ying Wang, Kaiyuan Zheng, Bo Zhang, Zhe Li, Shiming Xiang
                 <br>
                 <em>arXiv preprint arXiv:2602.09483</em>, 2026.
                 [<a href="http://arxiv.org/abs/2602.09483" target="_blank">Paper</a>]&nbsp;
@@ -78,7 +78,7 @@ redirect_from:
             <td>
                 <font style="line-height: 180%; font-weight: bold">Agentar-DeepFinance-100K: A Large-Scale Financial Dataset via Systematic Chain-of-Thought Synthesis Optimization</font>
                 <br>
-                Xiaoke Zhao*, Zhaowen Zhou*, <strong>Lin Chen*</strong>, Lihong Wang, Zhiyi Huang, Kaiyuan Zheng, Yanjun Zheng, Xiyang Du, Longfei Liao, Jiawei Liu, Xiang Qi, Bo Zhang, Peng Zhang, Wei Wang, Zhe Li
+                Xiaoke Zhao*, Zhaowen Zhou*, <strong style="color: #0056b3; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px;">Lin Chen*</strong>, Lihong Wang, Zhiyi Huang, Kaiyuan Zheng, Yanjun Zheng, Xiyang Du, Longfei Liao, Jiawei Liu, Xiang Qi, Bo Zhang, Peng Zhang, Wei Wang, Zhe Li
                 <br>
                 <em>Technical Report</em>, 2025.
                 [<a href="https://arxiv.org/pdf/2507.12901" target="_blank">Paper</a>]&nbsp;
@@ -95,7 +95,7 @@ redirect_from:
             <td>
                 <font style="line-height: 180%; font-weight: bold">SAM-MI: A Mask-Injected Framework for Enhancing Open-Vocabulary Semantic Segmentation with SAM</font>
                 <br>
-                <strong>Lin Chen</strong>, Yingjian Zhu, Qi Yang, Xin Niu, Kun Ding, Shiming Xiang
+                <strong style="color: #0056b3; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px;">Lin Chen</strong>, Yingjian Zhu, Qi Yang, Xin Niu, Kun Ding, Shiming Xiang
                 <br>
                 <em>Machine Intelligence Research</em>, 2025.
                 [<a href="https://arxiv.org/pdf/2511.20027" target="_blank">Paper</a>]&nbsp;
@@ -110,7 +110,7 @@ redirect_from:
             <td>
                 <font style="line-height: 180%; font-weight: bold">Efficient Redundancy Reduction for Open-Vocabulary Semantic Segmentation</font>
                 <br>
-                <strong>Lin Chen</strong>, Qi Yang, Kun Ding, Zhihao Li, Gang Shen, Fei Li, Qiyuan Cao, Shiming Xiang
+                <strong style="color: #0056b3; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px;">Lin Chen</strong>, Qi Yang, Kun Ding, Zhihao Li, Gang Shen, Fei Li, Qiyuan Cao, Shiming Xiang
                 <br>
                 <em>Neurocomputing</em>, 2025.
                 [<a href="https://arxiv.org/pdf/2501.17642" target="_blank">Paper</a>]&nbsp;
