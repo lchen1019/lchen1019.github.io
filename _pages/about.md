@@ -55,6 +55,23 @@ redirect_from:
         <tr>
             <td>
                 <div align="center">
+                    <img width="200" style="padding: 0pt 10pt 0pt 0pt" src="papers/align-ti/framework.png" alt="">
+                </div>
+            </td>
+            <td>
+                <font style="line-height: 180%; font-weight: bold">Beyond Next-Token Alignment: Distilling Multimodal Large Language Models via Token Interactions</font>
+                <br>
+                <strong>Lin Chen</strong>, Xiaoke Zhao, Kun Ding, Weiwei Feng, Changtao Miao, Zili Wang, Wenxuan Guo, Ying Wang, Kaiyuan Zheng, Bo Zhang, Zhe Li, Shiming Xiang
+                <br>
+                <em>arXiv preprint arXiv:2602.09483</em>, 2026.
+                [<a href="http://arxiv.org/abs/2602.09483" target="_blank">Paper</a>]&nbsp;
+                [<a href="https://github.com/lchen1019/Align-TI" target="_blank">Github</a>]&nbsp;
+                [<a href="https://huggingface.co/collections/lchen1019/align-ti" target="_blank">Hugging Face</a>]&nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
                     <img width="200" style="padding: 0pt 10pt 0pt 0pt" src="papers/deepfinance/framework.png" alt="">
                 </div>
             </td>
