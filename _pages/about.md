@@ -30,8 +30,9 @@ redirect_from:
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- **2025.11.13, 2025.11.26** Two papers for Open-Vocabulary Semantic Segmentation are accepted! 🚀🚀🚀
-- **2025.07.17** Agentar-DeepFinace-100K is released! 🚀🚀🚀
+- **2026.02** I write two Chinese blog about on-policy distillation, which were widely reposted. [青稞AI](https://mp.weixin.qq.com/s/96RnoxsJogqeWGejjH8V9g), [青稞AI](https://mp.weixin.qq.com/s/tNwZiCPz9S9h2oTCxR8G6w), [智猩猩AI](https://mp.weixin.qq.com/s/CJCBa_SmHedYVLUPQn6NRQ), [丁师兄大模型](https://mp.weixin.qq.com/s/17bt5y8rC1HWXZpCWiMS-Q)
+- **2025.11** Two papers for Open-Vocabulary Semantic Segmentation are accepted! 🚀🚀🚀
+- **2025.07** Agentar-DeepFinace-100K is released! 🚀🚀🚀
 
 
 <span class='anchor' id='educations'></span>
@@ -52,6 +53,22 @@ redirect_from:
 # 📝 Publications 
 <table border="0" width="100%">
     <tbody>
+        <tr>
+            <td>
+                <div align="center">
+                    <img width="200" style="padding: 0pt 10pt 0pt 0pt" src="papers/dipe/framework.png" alt="">
+                </div>
+            </td>
+            <td>
+                <font style="line-height: 180%; font-weight: bold">Beyond Sequential Distance: Inter-Modal Distance Invariant Position Encoding</font>
+                <br>
+                <strong style="color: #0056b3; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px;">Lin Chen</strong>, Bolin Ni, Qi Yang, Zili Wang, Kun Ding, Ying Wang, Houwen Peng, Shiming Xiang
+                <br>
+                <em>arXiv preprint arXiv:2603.10863</em>, 2026.
+                [<a href="https://arxiv.org/pdf/2603.10863" target="_blank">Paper</a>]&nbsp;
+                [<a href="https://github.com/lchen1019/DIPE" target="_blank">Github</a>]&nbsp;
+            </td>
+        </tr>
         <tr>
             <td>
                 <div align="center">
