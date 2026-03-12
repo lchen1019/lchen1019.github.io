@@ -30,9 +30,9 @@ redirect_from:
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- **2026.02** I write two Chinese blog about on-policy distillation, which were widely reposted. [青稞AI](https://mp.weixin.qq.com/s/96RnoxsJogqeWGejjH8V9g), [青稞AI](https://mp.weixin.qq.com/s/tNwZiCPz9S9h2oTCxR8G6w), [智猩猩AI](https://mp.weixin.qq.com/s/CJCBa_SmHedYVLUPQn6NRQ), [丁师兄大模型](https://mp.weixin.qq.com/s/17bt5y8rC1HWXZpCWiMS-Q)
-- **2025.11** Two papers for Open-Vocabulary Semantic Segmentation are accepted! 🚀🚀🚀
-- **2025.07** Agentar-DeepFinace-100K is released! 🚀🚀🚀
+- **2026.02** I write two Chinese blog about on-policy distillation, which are widely reposted. ([青稞AI](https://mp.weixin.qq.com/s/96RnoxsJogqeWGejjH8V9g), [青稞AI](https://mp.weixin.qq.com/s/tNwZiCPz9S9h2oTCxR8G6w), [智猩猩AI](https://mp.weixin.qq.com/s/CJCBa_SmHedYVLUPQn6NRQ), [丁师兄大模型](https://mp.weixin.qq.com/s/17bt5y8rC1HWXZpCWiMS-Q))
+- **2025.11** Two papers for Open-Vocabulary Semantic Segmentation are accepted!
+- **2025.07** Agentar-DeepFinace-100K is released!
 
 
 <span class='anchor' id='educations'></span>
