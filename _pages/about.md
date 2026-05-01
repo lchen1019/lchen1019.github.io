@@ -30,6 +30,7 @@ redirect_from:
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- **2026.05** Align-TI is accepted by ICML 2026!
 - **2026.02** I write two Chinese blog about on-policy distillation, which are widely reposted. ([青稞AI](https://mp.weixin.qq.com/s/96RnoxsJogqeWGejjH8V9g), [青稞AI](https://mp.weixin.qq.com/s/tNwZiCPz9S9h2oTCxR8G6w), [智猩猩AI](https://mp.weixin.qq.com/s/CJCBa_SmHedYVLUPQn6NRQ), [丁师兄大模型](https://mp.weixin.qq.com/s/17bt5y8rC1HWXZpCWiMS-Q))
 - **2025.11** Two papers for Open-Vocabulary Semantic Segmentation are accepted!
 - **2025.07** Agentar-DeepFinace-100K is released!
@@ -80,7 +81,7 @@ redirect_from:
                 <br>
                 <strong style="color: #0056b3; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px;">Lin Chen</strong>, Xiaoke Zhao, Kun Ding, Weiwei Feng, Changtao Miao, Zili Wang, Wenxuan Guo, Ying Wang, Kaiyuan Zheng, Bo Zhang, Zhe Li, Shiming Xiang
                 <br>
-                <em>arXiv preprint arXiv:2602.09483</em>, 2026.
+                <em>ICML</em>, 2026.
                 [<a href="http://arxiv.org/abs/2602.09483" target="_blank">Paper</a>]&nbsp;
                 [<a href="https://github.com/lchen1019/Align-TI" target="_blank">Github</a>]&nbsp;
                 [<a href="https://huggingface.co/collections/lchen1019/align-ti" target="_blank">Hugging Face</a>]&nbsp;
