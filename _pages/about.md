@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-👋 Hi! I’m Lin Chen, an academic capybara on the journey to the world of Artificial General Intelligence (AGI).
+👋 Hi! I’m Lin Chen, an academic capybara on the journey to Artificial General Intelligence (AGI) that can perceive, reason, and act in the physical world 🤖.
 
 🌱 I'm currently a PhD Student at Institute of Automation, Chinese Academy of Sciences (CASIA), advised by [Prof. Shiming Xiang](https://scholar.google.com/citations?hl=zh-CN&user=0ggsACEAAAAJ). Prior to that, I received my bachelor degree from Shandong University in 2024. 
 
-👀 My primary research interests include open-world computer vision and multimodal learning.
+👀 My primary research interests include computer vision and multimodal learning.
 
 ✉ You can contact me with chenlin2024@ia.ac.cn.
 
@@ -55,6 +55,21 @@ redirect_from:
 # 📝 Publications 
 <table border="0" width="100%">
     <tbody>
+        <tr>
+            <td>
+                <div align="center">
+                    <img width="200" style="padding: 0pt 10pt 0pt 0pt" src="papers/ef-vlm/intro.png" alt="">
+                </div>
+            </td>
+            <td>
+                <font style="line-height: 180%; font-weight: bold">How Far Are We from Removing the Visual Encoder? Scaling Laws for Encoder-Free Multimodal Pretraining</font>
+                <br>
+                <strong style="color: #0056b3; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px;">Lin Chen</strong>, Bolin Ni, Qi Yang, Lan Jiang, Kun Ding, Xiaoran Fan, Hower Yang, Ying Wang, Shiming Xiang
+                <br>
+                <em>arXiv preprint</em>, 2026.
+                [<a href="https://arxiv.org/pdf/2609.35457" target="_blank">Paper</a>]&nbsp;
+            </td>
+        </tr>
         <tr>
             <td>
                 <div align="center">
